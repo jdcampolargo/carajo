@@ -4,13 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Rainblur Landing Page Template: Tailwind Toolbox</title>
+    <title>Carajo.org </title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
 
     <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css"/>
     <!--Replace with your tailwind.css once created-->
     <link href="https://unpkg.com/@tailwindcss/custom-forms/dist/custom-forms.min.css" rel="stylesheet" />
+
+
+    
 
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
@@ -27,9 +30,64 @@
       <div class="w-full container mx-auto">
         <div class="w-full flex items-center justify-between">
           <a class="flex items-center text-indigo-400 no-underline hover:no-underline font-bold text-2xl lg:text-4xl" href="#">
-            Rain<span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">blur</span>
+            Carajo<span class="bg-clip-text text-transparent bg-gradient-to-r from-red-400 via-pink-500 to-purple-500">.org</span>
           </a>
 
+
+
+<nav class="bg-transparent">
+			<div class="max-w-6xl mx-auto px-20">
+				<div class="flex justify-between">
+					<div class="flex space-x-7">
+						
+            
+						<!-- Primary Navbar items -->
+						<div class="hidden md:flex items-center space-x-1">
+							<a href="/carajitos" class="py-4 px-2 text-gray-500 font-semibold hover:text-yellow-300 transition duration-300">Carajitos</a>
+							<a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer" class="py-4 px-2 text-gray-500 font-semibold hover:text-blue-500 transition duration-300">Comunidad</a>
+							<a href="" class="py-4 px-2 text-gray-500 font-semibold hover:text-red-400 transition duration-300">Contact</a>
+						</div>
+					</div>
+
+					<!-- Mobile menu button -->
+					<div class="md:hidden flex items-left">
+						<button class="outline-none mobile-menu-button">
+						<svg class=" w-6 h-6 text-gray-500 hover:text-white-500 "
+							x-show="!showMenu"
+							fill="none"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							viewBox="0 0 24 24"
+							stroke="currentColor"
+						>
+							<path d="M4 6h16M4 12h16M4 18h16"></path>
+						</svg>
+					</button>
+					</div>
+				</div>
+			</div>
+			<!-- mobile menu -->
+			<div class="hidden mobile-menu">
+				<ul class="">
+					<li class="active"><a href="index.html" class="block text-sm px-2 py-4 text-white bg-transparent-500 font-semibold">Home</a></li>
+					<li><a href="/carajitos" class="block text-sm px-2 py-4 hover:bg-transparent-500 transition duration-300">Carajitos</a></li>
+					<li><a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer"  class="block text-sm px-2 py-4 hover:bg-transparent-5000 transition duration-300">Comunidad</a></li>
+					<li><a href="#contact" class="block text-sm px-2 py-4 hover:bg-transparent-500 transition duration-300">Contact Us</a></li>
+				</ul>
+			</div>
+			<script>
+				const btn = document.querySelector("button.mobile-menu-button");
+				const menu = document.querySelector(".mobile-menu");
+
+				btn.addEventListener("click", () => {
+					menu.classList.toggle("hidden");
+				});
+			</script>
+		</nav>
+          
+<!-- 
+          
           <div class="flex w-1/2 justify-end content-center">
             <a class="inline-block text-blue-300 no-underline hover:text-pink-500 hover:text-underline text-center h-10 p-2 md:h-auto md:p-4 transform hover:scale-125 duration-300 ease-in-out" href="https://twitter.com/intent/tweet?url=#">
               <svg class="fill-current h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
@@ -46,7 +104,7 @@
                 <path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"></path>
               </svg>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -55,17 +113,18 @@
         <!--Left Col-->
         <div class="flex flex-col w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
           <h1 class="my-4 text-3xl md:text-5xl text-white opacity-75 font-bold leading-tight text-center md:text-left">
-            Main
-            <span class="bg-clip-text text-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">
-              Hero Message
+            Conoce
+            <span class="bg-clip-text text-transparent bg-gradient-to-r from-yellow-400 via-blue-400 to-red-600">
+              Carajo
             </span>
-            to sell yourself!
+            para alcanzar tus metas
           </h1>
           <p class="leading-normal text-base md:text-2xl mb-8 text-center md:text-left">
-            Sub-hero message, not too long and not too short. Make it just right!
+            Con "carajitos" para que puedas encontrar lo que te guste 
           </p>
 
-          <form class="bg-gray-900 opacity-75 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
+<!--           Form HTML -->
+<!--           <form class="bg-gray-900 opacity-75 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
             <div class="mb-4">
               <label class="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
                 Signup for our newsletter
@@ -86,12 +145,16 @@
                 Sign Up
               </button>
             </div>
-          </form>
+          </form> -->
         </div>
 
         <!--Right Col-->
         <div class="w-full xl:w-3/5 p-12 overflow-hidden">
-          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="macbook.svg" />
+          <img class="mx-auto w-full md:w-4/5 transform -rotate-6 transition hover:scale-105 duration-700 ease-in-out hover:rotate-6" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+          <div class="flex justify-between">
+  <button class="bg-green-500 hover:bg-green-400 text-white font-bold py-2 px-4 rounded">Empieza un Carajito</button>
+  <button class="bg-green-500 hover:bg-green-400 text-white font-bold py-2 px-4 rounded">Únete al Grupo de Whatsapp!</button>
+</div>
         </div>
 
         <div class="mx-auto md:pt-16">
