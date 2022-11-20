@@ -33,8 +33,8 @@
 
     --color-warning: hsl(37, 79%, 60%);
 
-    --main-gradient:        linear-gradient(to right, #dd33b3, #1ca6b5);
-    --main-gradient-inv:    linear-gradient(to right, #1ca6b5, #dd33b3);
+    --main-gradient:        linear-gradient(to right, #FCE300, #003DA5, #EF3340);
+    --main-gradient-inv:    linear-gradient(to left, #FCE300, #003DA5, #EF3340);
 }
 
 .s-light-theme {
@@ -43,5 +43,6 @@
     --color-dark:   hsla(0, 0%, 20%, 1);
     --color-bg:     hsla(0, 0%, 66%, 1);
     --color-accent: hsla(165, 56%, 83%,1);
+    // Maybe bright yellow could look good
     --color-extra:  hsl(315, 71%, 53%);
 }
