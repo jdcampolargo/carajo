@@ -6,7 +6,7 @@
   "feed_url": "https://example.com/feed/en.feed.json",
   "description": "TODO",
   "author": {
-    "name": "Your name",
+    "name": "Carajo.org",
     "url": "https://example.com"
   },
   "items": [{
