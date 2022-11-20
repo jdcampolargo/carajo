@@ -1,10 +1,10 @@
 ---
 layout: layouts/about.njk
-permalink: /about/
+permalink: /nosotros/
 eleventyNavigation:
     key: about
-    title: about
+    title: nosotros
     order: 2
 ---
 
-TODO: write about yourself.
+Saludos

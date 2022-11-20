@@ -1,6 +1,6 @@
 module.exports = {
     en: {
-        madeWith: "made with",
+        madeWith: "Created por",
         sources: "sources",
     },
 };
