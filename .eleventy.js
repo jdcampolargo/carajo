@@ -15,6 +15,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setDataDeepMerge(true);
 
     eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+    
 
     const getReadableDate = (locale, dateObj) => DateTime.fromJSDate(dateObj, {zone: 'utc', locale}).toFormat("dd LLL yyyy");
 
