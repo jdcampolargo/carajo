@@ -7,5 +7,32 @@
             <p>¿Viniste a USA recientemente? ¿Quieres estudiar? ¿Te gustaría progresar?.</p>
             <p>Agarra un "<a class="c-text-link" href="https://carajo.org/carajitos/">carajito</a>" y empieza a aprender!</p>
         </div>
-  
+    </section>
+
+    <section class="p-index_links">
+        <h2>
+            Links
+        </h2>
+        <ul class="p-index_links_link-container">
+          {% set links = main[locale].links%}
+          {% for link in links %}
+            <li> 
+              <section class="p-index_links_link"/>
+                <a href={{link.link | safe}} class="c-gradient-link">  {{link.text}}  </a>
+              </section>
+            </li>
+          {% endfor %}
+        </ul>
+
+    </section>
+
 </div>
+
+<!-- Path: site/src/_includes/pages/learn.njk -->
+<!-- <div class="project-final-cta terra home-page-mods">
+    <h3 class="final-cta-heading projects main">Ready to <span class="section-text-span">build</span>?</h3>
+    <p class="final-cta-text main">Choose a project. Start building with frens.</p><a
+        href="/web/20220604032400/https://buildspace.so/projects"
+        class="button-hero primary project home-page w-button">Explore Projects -&gt;</a>
+</div> -->
+
