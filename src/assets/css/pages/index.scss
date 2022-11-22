@@ -40,7 +40,7 @@
           a {
           display: block;
           margin-top: 1em;
-          border: 1px solid lightblue;
+          border: 1px solid rgb(221, 110, 19);
           padding: 1em;
           border-radius: 0.3em;
           }
@@ -55,33 +55,50 @@
       }
 
 
-    // buttons
-    &_btn {
-        display: inline-block;
-        padding: 9px 32px;
-        border-radius: 0.25rem;
-        transition: background 0.2s;
-        font-family: var(--monospace);
-        font-size: var(--text-base);
-        font-weight: 600;
-        text-decoration: none;
-        text-align: center;
-        cursor: pointer;
-        background: var(--color-accent);
-        color: var(--color-text);
 
-        &:hover {
-            background: var(--color-extra);
-        }
+&_linkss {
 
-        &:visited {
-            color: var(--color-text);
+    font-family: var(--monospace);
+    // padding: 1rem;
 
-            &:hover {
-                background: var(--color-extra);
-            }
-        }
+    p {
+      margin: 1em;
     }
+    
+    #center {
+        text-align: center;
+        align-items: center;
+    }
+    
+
+    &_link-container {
+    //   margin-top: 1em;
+    //   margin-bottom: 1em;
+      padding: 0;
+      align-items: center;
+    }
+
+    &_link {
+      a {
+      display: inline-block;
+    //   margin-top: 1em;
+      border: 1px solid rgb(221, 110, 19);
+      padding: 1em;
+      border-radius: 0.3em;
+      font-size: 25px;
+      align-items: center;
+      margin: 0.5em;
+      }
+
+      a:hover {
+        display: inline-block;
+        background-color: lightblue;
+      }
+    }
+
+
+  }
+
 }
 
 // I want to have two buttons in the middle of the page next to each other
@@ -100,4 +117,37 @@
     padding-top: 100px;
     margin-left: 100px;
 }
+
+#button1 , #button2 {
+    display:inline-block;
+    /* additional code */
+align-items: center;
+          margin-top: 1em;
+          border: 1px solid rgb(221, 110, 19);
+          padding: 1em;
+          border-radius: 0.3em;
+height: 80px;  
+width: 120px;  
+
+}
+
+#container{
+    align-items: center;
+}
+
+// .button {
+//     a {
+//         display: block;
+//         margin-top: 1em;
+//         border: 1px solid rgb(221, 110, 19);
+//         padding: 1em;
+//         border-radius: 0.3em;
+//         }
+
+//         a:hover {
+//           display: block;
+//           background-color: lightblue;
+//         }
+// }
+
 
