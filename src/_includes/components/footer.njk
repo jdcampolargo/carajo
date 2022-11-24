@@ -14,14 +14,15 @@
             <a
                 aria-label="{{ metadata[locale].source.label }}"
                 class="c-footer_icon c-icon-link c-icon-link--hover-extra"
-                href="{{ metadata[locale].source.link }}"
+                href="{{ metadata[locale].source.link }}" target="_blank" rel="noopener noreferrer"
             >
                 {% set label = metadata[locale].source.label %}
                 {% if label == 'github' %}
                     {% include "icons/brand-github.svg" %}
                 {% elif label == 'gitlab' %}
                     {% include "icons/brand-gitlab.svg" %}
-                {% endif %}
+                {% endif %} 
+           
             </a>
         </div>
     </div>

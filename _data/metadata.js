@@ -20,7 +20,7 @@ module.exports = {
         },
         source: {
             label: 'github',
-            link: 'https://github.com/moody-person/11ty-starter'
+            link: 'https://docs.google.com/forms/d/e/1FAIpQLSevk4vknyey22ck8Pr7DwB2l5JkUkq9ixuLJUbkthLDl4mIVw/viewform'
         },
         author: {
             url,
