@@ -9,10 +9,12 @@ eleventyNavigation:
 
 ¡Epale! Bueno, aquí te voy a contar varias cosas: 
 
-* ¿Por qué crear Esto sitio?
+* ¿Por qué crear esto sitio?
 * ¿Quién soy yo y mi historia?
-* ¿Cuál es la visión?
-* ¿Cómo puedes ayudar o contribuir?
+* ¿Cómo funciona <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>?
+* Carajitos: Sin Certificación o Con Certificación
+* ¿Cuál es la Visión?
+* ¿Cómo puedes ayudar?
 
 Si todo sale bien, <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a> se va a convertir en la comunidad más próspera y exitosa de venezolanos en todo el mundo. 
 
@@ -34,15 +36,14 @@ Es esa la razón por la cual la decidí crear <a href="https://www.carajo.org/" 
 ## ¿Quién soy yo y mi historia?
 ¿Si eres Venezolano seguramente te debes estar preguntando, ok y quien coño eres tú para crear una página como esta?
 
-Yo me pregunto lo mismo y es la respuesta es que soy un Venezolano igualito que tú y lo que busca es ayudar a nuestra comunidad. Yo me mudé a los Estados Unidos en el 2016 y eso ha sido la aventura desde no saber inglés y no tener un lugar para vivir hasta como mucho esfuerzo poder ir a la universidad y seguir adelante paso a paso. Para los curiosos, aquí doy más detalle sobre porque llegue a los Estados Unidos y más sobre mi historia. 
-
+Yo me pregunto lo mismo y es la respuesta es que soy un Venezolano igualito que tú y lo que busca es ayudar a nuestra comunidad. Yo me mudé a los Estados Unidos en el 2016 y eso ha sido la aventura desde no saber inglés y no tener un lugar para vivir hasta como mucho esfuerzo poder ir a la universidad y seguir adelante paso a paso. Para los curiosos, aquí <a href="https://youtu.be/R_ypK3r24og" target="_blank" rel="noopener noreferrer">doy</a> más detalle sobre porque llegue a los Estados Unidos y más sobre mi historia. 
 
 ## ¿Cómo funciona <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>?
 <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a> va a tener dos funciones: La primera van a ser los “<a href="https://www.carajo.org/carajitos" target="_blank" rel="noopener noreferrer">Carajitos</a>” y ellos van a ser una guía o iniciación rápida que ayudara a saber si esto algo que a lo mejor te gustaría hacer. 
 
 La segunda función va a ser a través de comunidad. Empezaremos con un grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a> donde vamos a ir construyendo la comunidad de venezolanos más exitosa de todo el mundo. En el grupo, compartiremos oportunidades, podemos pedir ayuda, y un sitio para ayudarnos entre nosotros mismos. Una vez que crecemos lo suficiente, empezaremos a hacer reuniones y eventos más presenciales como talleres intensivos. Hablaré sobre ello y más en la sección de la visión. 
 
-## Carajitos: Sin Certificación o Con Cortificación
+## Carajitos: Sin Certificación o Con Certificación
 
 Los Carajitos van a caer en dos categorías:
 
@@ -52,7 +53,7 @@ Los Carajitos van a caer en dos categorías:
 
 Generalmente, le recomendaría a la mayoría de las personas empezar en la sección de Sin Certificación, pero todo depende de lo que uno quiera hacer y los intereses de cada quien. 
 
-## ¿Cuál es la Visión de <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>?
+## ¿Cuál es la visión de <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>?
 Bueno, ¿cuál es la visión y futuro de Carajo.org?
 
 Vamos a empezar con guías o iniciaciones rápidas que ayuden a las personas saber si es algo que les guste o algo que les interese hacer. 
@@ -65,7 +66,7 @@ Y luego a las personas que este todavía más motivado, vamos a crear un program
 
 ¡Luego, ya estarás listo para conseguir un trabajo y a lo mejor convertirte en otro mentor, seguir ayudando la comunidad y ayudar a <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a> a crear la comunidad venezolana más exitosa de todo el mundo!
 
-### El Inicio de Algo Más Grande
+### El inicio de algo más grande
 Algo que me gustaría mencionar en la visión es lo siguiente. <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a> es quizás el principio de un esfuerzo más grande para cerrar la brecha entre talento y vocación. Conseguir un trabajo o hacer plata está bien, pero nunca va a ser suficiente porque siempre vas a querer buscar un mejor trabajo o hacer más plata. Es de sumamente importancia, que originemos una nueva narrativa sobre nuestra vida y nuestro trabajo. El propósito de nuestras vidas es en muchas maneras encontrar nuestra vocación y alimentarlo con nuestro talento. Quizás, esta es la única manera de vivir plenamente.
 
 El talento es lo que practicas para mejorar. La vocación es eso en lo que simplemente eres genial. En la historia de la civilización, ha habido un enorme excedente y escasez de talento y vocación de personas que desconocen su vocación oculta, trabajan en el campo equivocado, o haciendo menos de lo que son capaces de hacer.
@@ -76,7 +77,7 @@ Sí podemos reducir drásticamente el número de personas que no tuvieron idea o
 
 Tyler Cowen comenta que:
 
->En momentos críticos en el tiempo, tú puedes elevar significativamente las aspiraciones de otras personas, especialmente cuando >son relativamente jóvenes, simplemente sugiriendo que hagan algo mejor o más ambicioso de lo que podrían tener en mente. >cuesta relativamente poco hacer esto, pero el beneficio para ellos y para el resto del mundo puede ser enorme.
+>En momentos críticos en el tiempo, tú puedes elevar significativamente las aspiraciones de otras personas, especialmente cuando son relativamente jóvenes, simplemente sugiriendo que hagan algo mejor o más ambicioso de lo que podrían tener en mente. Te cuesta relativamente poco hacer esto, pero el beneficio para ellos y para el resto del mundo puede ser enorme.
 
 
 ## ¿Cómo puedes ayudar?
@@ -86,7 +87,7 @@ Hay varias formas.
 * Compartiendo: compárteles esta página a tus amigos y conocidos. Si los compartes en las redes sociales, estaría todavía mejor.
 * Crear un Carajito: si esto interesa, envíame un correo electrónico o únete al grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a>.
 * Grant: si conoces sobre un grant, subvención, o una ayuda para seguir adelante con este esfuerzo, avísanos.
-* Donación: Al donar lo que puedas, puedes ayudar a <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>, seguir con su misión por muchos años por venir y producir la comunidad de venezolanos más exitosa de todo el mundo. Sí, te gustaría donar, aquí (https://www.buymeacoffee.com/jdcampolargo) o con Bitcoin.
+* Donación: Al donar lo que puedas, puedes ayudar a <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>, seguir con su misión por muchos años por venir y producir la comunidad de venezolanos más exitosa de todo el mundo. Sí, te gustaría donar, <a href="https://www.buymeacoffee.com/jdcampolargo" target="_blank" rel="noopener noreferrer">aqui</a> o con Bitcoin.
 
 ## Palante Carajo!
 Creando la comunidad de venezolanos más exitosa de todo el mundo. ¡Vamos Palante Carajo!
