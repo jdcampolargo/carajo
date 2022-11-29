@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/11ty-starter/posts/en/programming/</loc>
+    <loc>/11ty-starter/posts/en/programacion/</loc>
     <lastmod>2022-11-22</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/nosotros/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2022-11-29</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/carajitos/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2022-11-29</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2022-11-29</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2022-11-29</lastmod>
   </url>
   
   <url>
     <loc>/11ty-starter/tags/sin-certificacion/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2022-11-29</lastmod>
   </url>
 </urlset>
