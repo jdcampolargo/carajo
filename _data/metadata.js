@@ -7,9 +7,9 @@ module.exports = {
     en: {
         url,
         title,
-        description: "TODO",
+        description: "Bienvenido a Carajo.org! ",
         feed: {
-            subtitle: "TODO",
+            subtitle: "Carajo.org",
             filename: "feed.xml",
             path: "/feed/en.feed.xml",
             id: "TODO",
