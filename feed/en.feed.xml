@@ -17,6 +17,274 @@
 		<link href="https://example.com/11ty-starter/posts/en/programacion/"/>
 		<updated>2022-11-22T00:00:00Z</updated>
 		<id>https://example.com/11ty-starter/posts/en/programacion/</id>
-		<content type="html"></content>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;La Programación es el futuro (a lo mejor el único)&lt;/li&gt;
+&lt;li&gt;¿Por dónde empezar?
+&lt;ul&gt;
+&lt;li&gt;¿Cómo aprender inglés?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Métodos
+&lt;ul&gt;
+&lt;li&gt;Sigue tu curiosidad&lt;/li&gt;
+&lt;li&gt;¡Aprende lo esencial y dale!&lt;/li&gt;
+&lt;li&gt;Estudia computación&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Carreras&lt;/li&gt;
+&lt;li&gt;print(“Chao y seguimos!”)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En este carajito, te enseñaré que recursos deber usar para aprender a programar (incluso crear tu propia página web en menos de 3 minutos), pero antes de todo eso, te cuento como es la vaina. Entonces empecemos porque te debería importar.&lt;/p&gt;
+&lt;p&gt;Antes de decirte como aprender a programar, te voy a decir por qué la programación es y será siendo tan importante en la actualidad.&lt;/p&gt;
+&lt;h1 id=&quot;la-programaci%C3%B3n-es-el-futuro-(a-lo-mejor-el-%C3%BAnico)&quot; tabindex=&quot;-1&quot;&gt;La Programación es el futuro (a lo mejor el único) &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#la-programaci%C3%B3n-es-el-futuro-(a-lo-mejor-el-%C3%BAnico)&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;¿Si te dijo la palabra “tecnología”, que se te viene a la mente? ¿Un teléfono, o a lo mejor una computadora?&lt;/p&gt;
+&lt;p&gt;La programación y el mundo de la computación ha salvado al mundo de una catástrofe mundial. Tanto así que asociamos la palabra tecnología con tecnología de información como los celulares. Elimina los teléfonos y las computadoras y el mundo sería exactamente el mismo al mundo de los 1970.&lt;/p&gt;
+&lt;p&gt;Pero chamo, acuérdate que eso no es el significado de la tecnología. No es nada más, computadoras. La tecnología también son cohetes, vacunas, y hasta la comida que comemos. Pero el mundo en sí ha vivido en un gran estancamiento o parálisis. Y como puedes ver, el mundo de las computadoras es el único sitio donde ha habido innovación. Tanto así que el mundo de la programación ahora está ayudando a desarrollar otras áreas sin progreso. Esa parece la única manera de avanzar el mundo físico: a través de la programación.&lt;/p&gt;
+&lt;p&gt;La tecnología es la base de la economía, y la programación es la base de la tecnología. El último punto es bastante importante porque no importa el campo en el que estudies o en el que trabajes, la programación estará allí.&lt;/p&gt;
+&lt;p&gt;El mundo se está convirtiéndose en un mundo digital y computacional. Es así, lo que sea que quieras hacer con tu vida, saber los fundamentos de la programación te ayudara muchísimo, desde conseguir un trabajo bien pagado hasta crear tu propia empresa.&lt;/p&gt;
+&lt;p&gt;Además de todo esto, es un campo donde puedes conseguir un trabajo bien pagado sin necesidad de ir a la universidad. Si te gusta la programación, puedes aprenderla por tu cuenta y empezar una vida próspera. Esto no significa, que todos debemos ser programadores más bien, espero que con esta guía te ayude a decidir si la programación es una de las cosas que te gustaría hacer en tu vida.&lt;/p&gt;
+&lt;p&gt;Personalmente, a mí me encanta la programación porque es un campo donde no necesito pedirle permiso a nadie y los costos para empezar son $0 o casi $0. Además, no hay credencialismo porque a nadie le importa si tienes un título universitario, de donde vienes, tu color de piel, o tu género, con tal y hagas algo útil. Tampoco necesitas ningún tipo de licencias para empezar a crear cosas interesantes. Además, para llegar y dejar que la gente sepa lo que estás haciendo, necesitabas las noticias como los periódicos. Ahora, con tal y hagas útil, puede usar canales de distribución gratuitos como las redes sociales para llegar a la gente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡Podemos hacer los que nos pegue la gana y es una de las cosas que más me emociona porque las oportunidades son casi infinita!&lt;/strong&gt; Si te emociona estas ideas, sigue leyendo &lt;a href=&quot;https://www.juandavidcampolargo.com/blog/leverage&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Y bueno, también tenemos otras razones como es uno de los pocos campos donde hay demanda de trabajo.&lt;/p&gt;
+&lt;Image src=&quot;/static/carajitos/programacion/demand.jpeg&quot; width=&quot;{1366}&quot; height=&quot;{878}/&quot;&gt;
+&lt;figcaption&gt;&lt;a href=&quot;https://nyts.link/https:/www.nytimes.com/2017/11/01/education/edlife/stem-jobs-industry-careers.html&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Fuente&lt;/a&gt;
+ &lt;/figcaption&gt;
+&lt;p&gt;En azul, es el número de graduados y en rosado, es el número de ofertas de trabajo. &lt;em&gt;Computer Science&lt;/em&gt; (o programación) es el único con más ofertas de trabajo que graduados. Es decir, hay más trabajo que gente.&lt;/p&gt;
+&lt;p&gt;Esto es importante por dos razones:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;La gente cree que cuando estudia ingeniería o algo parecido, van a ser ricos y famosos, pero eso es pura mierda como te acabo de mostrar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mucho de esos trabajos no piden título universitario. Por ejemplo, en Google, no se requiere un título de cuatro años para casi ningún puesto en la empresa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Aquí te pongo otra gráfica donde puedes ver como el mundo del software manda.&lt;/p&gt;
+&lt;Image src=&quot;/static/carajitos/programacion/industry.png&quot; width=&quot;{545}&quot; height=&quot;{515}/&quot;&gt;
+&lt;p&gt;Esto quiere decir que la industria en la que trabajes puede dictar tu éxito más que tu desempeño en ella. Por ejemplo, vamos a decir que quisieras jugar un deporte de raqueta como el tenis o el bádminton. Si quieres ganar plata, elige tenis en lugar de bádminton, frontenis, o pickleball. Un jugador en el Top 10 gana entre 10 y 20 veces más que cualquier jugador en el Top 10 en cualquier otro deporte de raqueta. Esto significa que pequeños ajustes en tu posicionamiento pueden tener una gran influencia en tu prosperidad y “éxito”.&lt;/p&gt;
+&lt;p&gt;Bueno, te dije varias razones, desde porque la programación es el base de la tecnología y del mundo hasta razones porque financieramente tiene sentido. ¡Aunque esas razones sean importante, lo que es más importante, es que te emocione y empieces lo más rápido posible!&lt;/p&gt;
+&lt;p&gt;¡Vamos a darle carajo!&lt;/p&gt;
+&lt;h1 id=&quot;%C2%BFpor-d%C3%B3nde-empezar%3F&quot; tabindex=&quot;-1&quot;&gt;¿Por dónde empezar? &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#%C2%BFpor-d%C3%B3nde-empezar%3F&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Una de las cosas que “necesitas” es aprender inglés porque el mundo de programación casi todo es en inglés. Digo “necesitas” porque si no sabes inglés, no importa porque aprender programación te va a ayudar a aprender inglés. Con el tiempo vas a ir aprendiendo y no te preocupes, hay mucha gente que no sabe inglés perfectamente y son tremendos programadores.&lt;/p&gt;
+&lt;p&gt;Si necesitas aprender inglés, esto es lo que te recomiendo para aprender inglés en semanas o meses en vez de años.&lt;/p&gt;
+&lt;h2 id=&quot;%C2%BFcomo-aprender-ingl%C3%A9s%3F&quot; tabindex=&quot;-1&quot;&gt;¿Como Aprender Inglés? &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#%C2%BFcomo-aprender-ingl%C3%A9s%3F&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tres pasos.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Aprender los sujetos (&lt;strong&gt;20%&lt;/strong&gt;)&lt;br /&gt;
+Yo - I, You - Tú, We - Nosotros, etc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aprender los verbos y los tiempos (&lt;strong&gt;30%&lt;/strong&gt;)&lt;br /&gt;
+Yo soy - I am. Yo era - I was. Yo seré - I will.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Memorizar Palabras (&lt;strong&gt;50%&lt;/strong&gt;)&lt;br /&gt;
+Cuando ya sepas las bases, lo que te toca es echarle bola a memorizar palabras. Te tienes que olvidar que sabes español, todo lo que oigas, veas, y leas DEBE ser en inglés. Para memorizar palabras rápido, yo leía revistas de Natgeo y Forbes y anotaba cada palabra que no entendía. Al principio, anotaba casi todas y las buscaba en las imágenes Google porque es más fácil memorizar una imagen que una palabra traducida.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ahora así, empecemos.&lt;/p&gt;
+&lt;h1 id=&quot;m%C3%A9todos&quot; tabindex=&quot;-1&quot;&gt;Métodos &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#m%C3%A9todos&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;¿Entonces, cómo carajo puedes empezar a programar?&lt;/p&gt;
+&lt;h2 id=&quot;sigue-tu-curiosidad&quot; tabindex=&quot;-1&quot;&gt;Sigue tu curiosidad &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#sigue-tu-curiosidad&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Esta es la manera como yo he más aprendido y como muchas personas han aprendido y siguen aprendiendo.&lt;/p&gt;
+&lt;p&gt;Sin embargo, este es un camino donde tienes que entender que van a muchas cosas que no vas a saber y va a ver frustración o confusión. Pero también es el camino más divertido porque puedes aprender a tu manera, a tu ritmo, y crear cosas super interesantes.&lt;/p&gt;
+&lt;p&gt;¿Cómo puedes empezar?&lt;/p&gt;
+&lt;p&gt;Lo primero es pensar en una idea para algo que realmente quieras crear. Por ejemplo, una red social para XYZ. Incluso este la página de &lt;a href=&quot;https://www.carajo.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Carajo.org&lt;/a&gt;, ¿Tú crees que yo sabía todo sobre como programar una página como esta?&lt;/p&gt;
+&lt;p&gt;¡No! Fui al internet y busqué: “¿Cómo crear una página de internet que haga tal cosa?”&lt;/p&gt;
+&lt;p&gt;Cuando ya tengas la idea, lo mejor es buscar un tutorial en línea que se aproxime a la idea. Por ejemplo, una aplicación clon de Instagram. Al encontrar el tutorial, síguelo y personalízalo a tu gusto.&lt;/p&gt;
+&lt;p&gt;Sigue creando cosas y repite este proceso unas veinte veces.&lt;/p&gt;
+&lt;p&gt;Aquí te dejo los pasos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Piensa en una idea para algo que realmente quieras crear (por ejemplo, una red social para XYZ)&lt;/li&gt;
+&lt;li&gt;Busca un tutorial en línea que se aproxime a la idea (por ejemplo, &lt;a href=&quot;https://www.youtube.com/results?search_query=clon+de+instagram+&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;una aplicación para clonar Instagram&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Síguelo y personalízalo a tu gusto&lt;/li&gt;
+&lt;li&gt;Repite este proceso una y otra vez&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Este proceso no me lo enseño un perro en la calle. Esto me lo &lt;a href=&quot;https://twitter.com/keithschacht/status/1465324942174658566?s=20&amp;t=p9UmsT44tKSLDG6KbuHSZA&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;dijo&lt;/a&gt;, un programador autodidáctico que no fue a la universidad y vendió una empresa a Discovery por 300 millones de dólares.&lt;/p&gt;
+&lt;p&gt;¿Hablando en términos prácticos, que otras herramientas necesitarías? Casi más nada. Lo que te recomendaría FULL es que uses &lt;a href=&quot;https://www.replit.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Replit.com&lt;/a&gt; para hacer tus proyectos de programación porque lo puedes usar desde el teléfono o cualquier dispositivo. A mí me encanta Replit.&lt;/p&gt;
+&lt;p&gt;De hecho, en el mismo Replit, tienen sus propios tutoriales donde puedes aprender a ser una página personal o incluso un videojuego.&lt;/p&gt;
+&lt;p&gt;¿Sabes qué? ¿Por qué no te muestro cómo puedes hacer tu propia página web en menos de tres minutos?&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/91MHCZDid_U&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Nada del otro mundo y bastante sencillo. Pero sirve, para familiarizarte con todos las herramientas.&lt;/p&gt;
+&lt;p&gt;Si te pareció interesante, te invito a que crees un sitio web personal donde incluyas tres cosas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tu Nombre/Foto&lt;/li&gt;
+&lt;li&gt;Biografía de 7 segundos con tus intereses, proyectos y más&lt;/li&gt;
+&lt;li&gt;Formas para contactarte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;😎 &lt;a href=&quot;https://letmegooglethat.com/?q=como+programar+un+sitio+web+personal+usando+HTML%2FCSS&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Pista&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;😎😎 ¿Otra pista? Recuerda utilizar Replit para programar tu sitio web como te mostré hace segundos.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👋 Si tienes una pregunta o te gustaría conocer a otros miembros de Carajo, recuerda unirte al grupo de &lt;a href=&quot;https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;WhatsApp&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;%C2%BFqu%C3%A9-m%C3%A1s%3F&quot; tabindex=&quot;-1&quot;&gt;¿Qué más? &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#%C2%BFqu%C3%A9-m%C3%A1s%3F&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Sigue creando cosas interesantes y compartiéndolos en el internet como Twitter, Reddit, etc. Con el tiempo, vas a ir aprendiendo y las oportunidades van a ir viniendo en formas de trabajo, proyectos que te hagan dinero y bueno el cielo es límite.&lt;/p&gt;
+&lt;p&gt;Si no sabes que crear o programar, recuerda resolver tus propios problemas o los problemas de aquellas personas cerca de ti como tus amigos o familia (ojo así es como también puedas crear compañías/startups super exitosos). Por ejemplo, un proyecto que estaría interesante es crear un WhatsApp bot donde la gente con asilo político pueda preguntar su status o que le llega cualquier otra notificación a través de WhatsApp en vez de ir a la página del gobierno (USCIS).&lt;/p&gt;
+&lt;p&gt;Te doy otro ejemplo, donde yo estudio siempre hay comida gratis. Entonces, un día, me senté y programé un Twitter Bot que le dice a la gente donde esta comida gratis. &lt;a href=&quot;https://twitter.com/UIUCFreeFood&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;¡Échale un vistazo!&lt;/a&gt; Una de las cosas más útiles y “exitosas” que he creado.&lt;/p&gt;
+&lt;p&gt;Pero esta es solamente unas de las maneras. Si tú eras una persona que a lo mejor le gustaría aprender los conceptos básicos primero o al mismo tiempo, o incluso si eras una persona que te gustaría más estructura, también hay opciones para ti.&lt;/p&gt;
+&lt;p&gt;Seguimos.&lt;/p&gt;
+&lt;h2 id=&quot;%C2%A1aprende-lo-esencial-y-dale!&quot; tabindex=&quot;-1&quot;&gt;¡Aprende lo esencial y dale! &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#%C2%A1aprende-lo-esencial-y-dale!&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A lo mejor empiezas a darle con varios proyectos, pero no entiendes muchos conceptos y no sientes que estés aprendiendo, te invito a que busques un curso que te enseñe los conceptos básicos de la computación.&lt;/p&gt;
+&lt;p&gt;Este es el que yo te recomiendo: &lt;a href=&quot;https://learncs.online/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Learncs.online&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yo tomé este curso y es uno de los mejores cursos que he tomado en toda mi vida.  Incluye videos, práctica (mucha), y hasta un fórum para hacer preguntas. Es más para aprender todo, no necesitas descargar nada o ir a otras páginas, todo lo que necesitas está en un solo sitio. Esta página te enseña desde el principio (desde cero) hasta saber lo suficiente para ser “peligroso” como dice el profesor. El curso está diseñado para que hagas una lección diaria por alrededor de dos meses. Si hay un curso, clase, o recurso que te pudiera recomendar va a ser este. Esta página es tan bueno que se lo recomiendo a todo el que conozca.&lt;/p&gt;
+&lt;p&gt;Lo único es que esta página está inglés, pero te recomiendo que lo tomes de todas maneras porque lo puedes traducir con Google automáticamente y te va a ayudar a aprender el idioma. Si lo intentas y no entiendes mucho, esta es otra &lt;a href=&quot;https://www.edx.org/course/introduccion-a-la-programacion-en-java-empezando-a?index=product_value_experiment_a&amp;queryID=e1c222395e50f0ec526905ff776416ee&amp;position=2&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;alternativa en español&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Algunos de ustedes van a ir a esta página y seguro van a decir:&lt;/p&gt;
+&lt;p&gt;“Veo que este curso es en Java. ¿Python o JavaScript no son más popular?”&lt;/p&gt;
+&lt;p&gt;Van a ver muchos en el internet, pero te recomiendo que busques uno que te enseñe los conceptos básicos en un lenguaje como Java. Muchos de los cursos por ahí te van a enseñar Python, pero el que aprende Python no puede programar con tanta facilidad en otros idiomas como C o C++ e incluso JavaScript. Pero el que aprende Java primero, Python se convierte en una papaya y si te toca programar en C o C++, los va a poder dominar. Java no es tan popular, pero si quieres aprender todo con buen fundamento, Java es el rey. Otro punto, el lenguaje de programación no importa en sí por si aprendes los conceptos de la computación, puedes programar en cualquier idioma.&lt;/p&gt;
+&lt;p&gt;Si leíste el último párrafo y nada de esto tiene sentido para ti, no te preocupes, con el tiempo, vas a entender.&lt;/p&gt;
+&lt;p&gt;Ya luego de este curso, ya vas a poder entender todos los conceptos básicos de la programación para seguir aprendiendo temas fundamentales como estructura de datos y algoritmos (más sobre esto en unos minutos).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👋 Si tienes una pregunta o te gustaría conocer a otros miembros de Carajo, recuerda unirte al grupo de &lt;a href=&quot;https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;WhatsApp&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;estudia-computaci%C3%B3n&quot; tabindex=&quot;-1&quot;&gt;Estudia computación &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#estudia-computaci%C3%B3n&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;La programación es la práctica. La computación es la teoría. Mi recomendación es que aprendas a programar y luego se te va a hacer mucho más fácil aprender la teoría después de conocer la práctica.&lt;/p&gt;
+&lt;p&gt;¿Por qué aprender la teoría? Hay una diferencia entre el chef y el cocinero. El cocinero te puede cocinar igual o hasta mejores platos que un chef, pero el chef va a tener conocimiento sobre la temperatura y la formula para conseguir ciertos sabores. Ambos cocinan bien y ambos son útiles, pero van a ver veces cuando el chef va a poder cocinar platos (resolver problemas) que el cocinero no va a poder.&lt;/p&gt;
+&lt;p&gt;Esto aplica también para los programadores y las personas que estudian computación. Los programadores no van a profundidad en como funcionan las cosas y solo aprender herramientas y tecnologías específicas en lugar de sus fundamentos. Mientras que el que estudia computación, aprende informática en profundidad, ya sea acudiendo a la universidad o leyendo libros, tomando clases en internet, y buscando la manera.&lt;/p&gt;
+&lt;p&gt;Al aprender informática, no importa que tanto la tecnología cambie, siempre vas a poder aprenderla y mantenerte actualizado.&lt;/p&gt;
+&lt;p&gt;Así que bueno, aquí te dejo una lista desde lo más básico hasta temas bastante avanzados. Estudia los temas, aproximadamente en el orden que te los estoy presentando. Te doy varias opciones donde aprender los temas, así que la primera opción es la que recomiendo primero.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Temas&lt;/th&gt;
+&lt;th&gt;¿Por qué?&lt;/th&gt;
+&lt;th&gt;¿Dónde?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Introducción a la Informática y Programación&lt;/td&gt;
+&lt;td&gt;Cuando ya tengas un poquito más de experiencia, saber conceptos como recursión o bucles (for-loops), te va a ayudar un montón cuando estés creando tus proyectos.&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://learncs.online/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;strong&gt;Learncs.online&lt;/strong&gt;&lt;/a&gt;  Alternativa en Español&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;%C2%BFotras-opciones%3F&quot; tabindex=&quot;-1&quot;&gt;¿Otras opciones? &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/programacion/#%C2%BFotras-opciones%3F&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+  &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
+  &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+
+
+&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Mucha gente del mundo de la programación aprenden también utilizando bootcamps y la universidad también.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Universidad/Community College: la universidad también te da esa estructura y obligación para estudiar. No es super efectivo y lo que aprendas no es a lo mejor tan interesante y tan rápido como lo harías por tu cuenta o con los cursos que te recomendé hace unos minutos. La universidad es cara, pero hay muchas becas, además si puedes ir a una buena universidad, te va a permitir conocer muchos compañeros y profesores muy interesantes que podrías crear proyectos e investigaciones juntos. La gente en sí que conocerías sería lo importante. Si tienes la posibilidad y consigues una beca para estudiar en una buena universidad, sería una buena opción, pero piénsalo bien.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bootcamp: muchos de estos bootcamp son gratuitos y les pagas cuando ya consigas un trabajo. Sería una buena opción si necesitas más soporte y bueno una estructura que te obligue a terminarlo. Hay muchas opciones, así que haz una buena investigación para buscar el programa que tenga sentido para ti.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;👋 Si tienes una pregunta o te gustaría conocer a otros miembros de Carajo, recuerda unirte al grupo de &lt;a href=&quot;https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;WhatsApp&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/Image&gt;&lt;/Image&gt;</content>
 	</entry>
 </feed>
