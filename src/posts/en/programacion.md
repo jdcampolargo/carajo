@@ -128,6 +128,8 @@ Si te pareció interesante, te invito a que crees un sitio web personal donde in
 
 😎😎 ¿Otra pista? Recuerda utilizar Replit para programar tu sitio web como te mostré hace segundos.
 
+Cuando lo termines, comparte el enlace de tu página en el grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a>. 
+
 > 👋 Si tienes una pregunta o te gustaría conocer a otros miembros de Carajo, recuerda unirte al grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a>.
 
 ### ¿Qué más?
