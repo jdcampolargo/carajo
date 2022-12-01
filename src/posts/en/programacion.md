@@ -191,7 +191,10 @@ Así que bueno, aquí te dejo una lista desde lo más básico hasta temas bastan
 | Sistemas distribuidos (Distributed systems)                     | La mayoría de los sistemas con los que interactúas, como Amazon, Facebook, etc., se crean utilizando computación distribuida.                                                                                                                                                 | <a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB" target="_blank" rel="noopener noreferrer">Distributed Systems</a> <br /> <br />  <a href="https://www.youtube.com/playlist?list=PLesmOrW3mp4jpSbdFMtVWINJZ7OLdSASS" target="_blank" rel="noopener noreferrer">Alternativa en Español</a>                                                                                                                                                   |
 | Aprendizaje automático (Machine Learning)                       | El aprendizaje automático (machine learning) se usa en todas partes, desde las películas que Netflix te recomienda hasta los autos sin conductor.                                                                                                                             | <a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener noreferrer">Machine Learning</a> <br /> <br />   <a href="https://www.edx.org/es/course/machine-learning-aprendizaje-automatico-con-python?index=spanish_product&queryID=4879b0e93583358b8a03d85a7ae1c4d3&position=3" target="_blank" rel="noopener noreferrer">Alternativa en Español</a>                                                                                                                                                     |
 
+<br >
 Además de esta lista, aquí te dejo otra lista de recursos que no son necesariamente sobre fundamentos de la computación, pero que te pueden ayudar a aprender, tener una perspectiva diferente, y hasta incluso conseguir un trabajo.
+<br >
+<br >
 
 | Temas                                        | ¿Por qué?                                                                                                                                                              | ¿Dónde?                                                                                                                                                                                                                                                                                                              |
 |----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -216,5 +219,122 @@ La programación es casi infinita y lo mejor de todo es que te puedes enfocar en
 
 Pero cuando ya sepas los fundamentos, lo que tienes es que echarle bola, conseguir experiencia como programador en áreas que creas que te pueden gustar y seguirle dando.
 
-A continuación te dejo varias carreras o trabajos que puedes conseguir como programador. ¡Ojo! ¡Estos son nada más algunas y lo interesante es que cada día los programadores tienen trabajos diferentes, así que es probable que el trabajo que tú termines haciendo todavía no exista, aun así que mantén una mente abierta y flexible.
+A continuación te dejo varias carreras o trabajos que puedes conseguir como programador. ¡Ojo! ¡Estos son nada más algunas y lo interesante es que cada día los programadores tienen trabajos nuevos, así que es probable que el trabajo que tú termines haciendo todavía no exista así que mantén una mente abierta y flexible.
 
+Vamos uno por uno[1]:
+
+**Ingeniero de software (Software Engineer**): este incluye muchas áreas como web, full-stack, back-end y front-end. A veces, esta va a ser la primera opción para la mayoría de los que aprenden a programar. Full-stack tiene un enfoque en muchos usos y tal vez sea una buena manera de ingresar a este tipo de rol antes de encontrar lo que en realidad te gustaría hacer.
+
+Idealmente: te encanta crear nuevos proyectos.
+
+**Ingeniera de datos (Data Engineer**): este un rol más especializado en el back-end. Si te gusta más la parte de sistemas que la parte del diseño del producto, esta podría ser una buena opción. Tu trabajo estaría enfocado en la infraestructura y el análisis de datos mediante la creación y el mantenimiento de sistemas de bases de datos.
+
+Idealmente: te encanta diseñar sistemas y modelos de datos
+
+**Analista de Datos (Data Scientist/Analyst**): Este rol se enfoca en el análisis, más que crear proyectos nuevos. Si te gusta encontrar patrones y resolver misterios, este puede ser un buen rol para ti. Este rol muchas veces tiene un componente de aprendizaje automático (machine learning).
+
+Idealmente: te gusta la matemática y encontrar buscar respuestas
+
+
+**Visualización de datos (Data Visualization**): tú sabes esas gráficas que ves en el periódico o en las redes sociales sobre la población o el crecimiento económico, una persona que trabaja en visualización de datos crea estas gráficas. Este rol es una combinación del front-end y el análisis de datos. En el mundo, cada segundo, estamos creando más data y necesitamos gente con talento que entienda y explique toda esta data. 
+
+Idealmente: eres creativo y tienes fuertes habilidades de diseño.
+
+**El especialista (Specialist**): ingenieros de software con un enfoque en una área como seguridad, iOS, Android, ML, AI, VR, etc. Estos son roles para gente que le gustaría crear proyectos en una área específica como una aplicación en un teléfono. Este rol sería perfecto para ti, si te encanta especializarte en una tecnología.
+
+Idealmente: te encanta crear nuevos proyectos y quieres ser un experto en un área especializada.
+
+**Ingeniero de control de calidad (QA Engineer**): este rol implica escribir conjuntos de pruebas, garantizar que el software funcione como se espera y esté libre de errores. Antes de que se lance el producto al público, tú vas a estar ahí haciendo todas las pruebas y ver si hay errores. QA Engineering no es para todos, pero puede ser perfecta para ti si te gusta encontrar problemas, en lugar de resolverlos.
+
+Idealmente: ten encantan los detalles y eres bueno para encontrar problemas.
+
+**Ingeniero de confiabilidad/infraestructura del sitio (Site Reliability/Infrastructure Engineer**): para los servicios basados ​​en la web, tú te vas a asegurar de que los servicios sigan funcionando sin problemas. A nadie le gusta que una página no funciona o que sea lenta, así que tu trabajo sería mantener todo funcionando rápidamente.  Si te gustaría este desafío y disfrutas trabajar con tecnologías de red (networking), esta puede ser una excelente opción para ti.
+
+Idealmente: eres tranquilo y el estrés no te afecta.
+
+
+**DevOps**: este es un rol relativamente nuevo que une el desarrollo de software y las operaciones de tecnología. Tú podrías estar a cargo de configurar el acceso a bases de código, herramientas, etc. y ayudar a los desarrolladores a configurar sus entornos. Este rol puede implicar la creación de herramientas internas y la mejora de procesos. Es probable que trabajes en estrecha colaboración con los desarrolladores y vas a necesitar ser un buen comunicador para ser exitoso en este rol.
+
+Idealmente: le interesan las herramientas y los procesos de desarrollador.
+
+**Defensor del desarrollador (Developer Advocate**): Este rol también es nuevo y es como una especie de embajador de la comunidad de desarrolladores, este rol es social y se centra en la promoción de herramientas de ingeniería para los desarrolladores. Es probable que asista a eventos y foros de demostración o monitoreo para responder preguntas con frecuencia. Si te gusta explicar/enseñar conceptos técnicos, esta puede ser una buena opción. Si bien es un rol social, generalmente socializa exclusivamente dentro de la comunidad de desarrolladores.
+
+Idealmente: eres sociable y disfrutas asistir a eventos tecnológicos.
+
+
+**Ingeniero de soporte técnico (Technical Support Engineer**): Cuando el soporte cliente no es suficiente, el siguiente nivel serías tú donde usas tus habilidades de programador para resolver problemas técnicos. Dependiendo de la empresa, puede trabajar en una amplia variedad de problemas cotidianos, lo cual es excelente para aquellos a quienes les gusta la variedad. A veces el trabajo puede ser de carácter investigativo, lo que es un plus para muchos. Sin embargo, este tipo de rol requiere mucha empatía, ya que a menudo se trata de un rol centrado en el cliente.
+
+Idealmente: te encanta ayudar a las personas y disfrutas la variedad en tu trabajo.
+
+**Ingeniero de ventas/soluciones (Sales/Enterprise/Solutions Engineer**): en lugar de resolver problemas cotidianos como los ingenieros de soporte, a menudo trabaja con clientes en la etapa de incorporación y diseña soluciones para que integren el producto de la empresa en sus sistemas. Esta es una excelente opción para alguien que es social y un excelente comunicador, ya que este rol puede implicar muchas presentaciones/demostraciones para clientes no técnicos. Este rol tiene una sensación de consultoría porque trabaja con frecuencia con nuevos clientes y se beneficiaría de poseer una comprensión profunda de los negocios.
+
+Idealmente: te gustaría una combinación de personas y tecnología en su trabajo diario.
+
+Eso son nada más algunas, aquí te dejo otra lista con carreras y áreas interensantes en el mundo de la tecnología y programación:
+
+<br >
+
+
+* Full-stack developer 
+* Data (data analysis, data science) 
+* Front-end developer 
+* Back-end developer 
+* Systems Programmer 
+* Administrador de base de datos (Database engineer)
+* Quant Software Engineer
+* Desarrollador de juegos (Game Development)
+* Programador cientifico (Research/Scientific Programmer)
+* Ingeniero de firmware (Firmware engineer)
+* Cibernética (Cybersecurity)
+* Inteligencia Artificial (Artificial Intelligence o AI)
+* Aprendizaje Automático(Machine Learning)
+* Ingeniera de automatización (Automation Engineer)
+* Ingeniera en mecatrónica (Mechatronics Engineer)
+* Ingeniero de software gráfico (Computer graphics)
+* Robótica (Robotics)
+* Procesamiento de datos (Data mining)
+* Computación en la nube (Cloud computing)
+* Realidad Virtual (Virtual Reality)
+* Visión por computadora (Computer Vision)
+* Sistemas embebidos (Embedded systems)
+* Sistemas operativos (Operating systems)
+* Computación distribuída (Distributed computing)
+* Computación científica (Scientific computing()
+* Programas multimedia (Multimedia software()
+* Sistemas de comunicaciones (Communications systems()
+* Procesamiento de señales digitales (Digital signal processing)
+* Sistemas de control digitales (Digital control systems()
+* Herramientas de desarrollo de software (Software development tools)
+
+
+¿Otras carreras o trabajo? 
+
+¡Ahora es que falta! Lo que tienes que hacer es preguntarte a ti mismo que disfrutas más y buscar la oportunidad para destacarte haciendo eso. A lo mejor te gustan los carros sin conductor o a lo mejor te gustaría programar los sistemas del cohete que va a ir a Marte o lo mejor te gustaría crear una aplicación para ayudar a otros Venezolanos a buscar refugio en el extranjero. Como puedes ver, las oportunidades son infinitas, así que tienes que buscar lo que te guste más a ti.
+
+# print(“Chao y seguimos!”)
+Chao y seguimos!
+
+Eso es todo. Espero este sea útil y que sea el inicio de una carrera próspera y exitosa. Recuerda la única manera de aprender algo es a través de la práctica y no solo eso, ponte en situaciones en las que dependa de lo que estés aprendiendo.
+
+La programación es una habilidad cada vez más importante en el mundo moderno. Está cambiando la economía, la tecnología y la forma en que vivimos. Si deseas aprender a programar, hay muchos cursos y tutoriales en línea disponibles para ayudarte. El camino más entretenido y satisfactorio es seguir tu curiosidad y usar herramientas como Replit para empezar a programar tus propios proyectos. Los programadores tienen la oportunidad de cambiar el mundo y tú vida para mejor y crear productos innovadores. Si te emociona la programación, ¡No dejes de dar el primer paso!
+
+Carajito por Carajito, vamos a ir creando la <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">comunidad</a> de venezolanos más exitosa del mundo.
+
+¡Palante Carajo!
+
+<br >
+<br >
+<br >
+<br >
+<br >
+<br >
+
+### Notas
+[1] Esta lista de trabajos fue inspirada en este <a href="https://medium.com/swlh/finding-fulfillment-in-coding-jobs-which-programming-role-is-your-perfect-match-10b475beb65a" target="_blank" rel="noopener noreferrer">artículo</a>.
+
+<br >
+<br >
+
+
+* Si tienes sugerencias o recomendaciones sobre este carajito, envíame un [correo electrónico](mailto:jdcampolargo@hotmail.com) o un <a href="https://twitter.com/jdcampolargo" target="_blank" rel="noopener noreferrer">tweet</a>.
+* Si quieres que te avisemos cuando tengamos nuevos carajitos o mantenerte informado sobre la organización, puedes suscribirte <a href="https://docs.google.com/forms/d/e/1FAIpQLSevk4vknyey22ck8Pr7DwB2l5JkUkq9ixuLJUbkthLDl4mIVw/viewform" target="_blank" rel="noopener noreferrer">aquí</a>.
