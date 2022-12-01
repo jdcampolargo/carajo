@@ -10,9 +10,9 @@ templateClass: tmpl-post
                 <img src="/static/images/{{ page.data.image }}" alt="{{ post.data.imageAlt }}" />
             </picture>
         {% endif %}
-        <time class="p-article_date" datetime="{{ page.date | htmlDateString }}">
+        <!-- <time class="p-article_date" datetime="{{ page.date | htmlDateString }}">
             {{ page.date | en_readableDate }}
-        </time>
+        </time> -->
         <h1 class="p-article_title">{{ title }}</h1>
         <div class="p-artilce_tags">
         {%- for tag in tags | filterTagList -%}
