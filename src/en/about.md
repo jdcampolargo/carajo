@@ -83,11 +83,11 @@ Tyler Cowen comenta que:
 ## ¿Cómo puedes ayudar?
 Hay varias formas. 
 
-* Unirte el grupo de WhatsApp: Ya sea que estés agarrando un Carajito, quisieras ser mentor, o alguna otra cosa, esta va a ser la mejor forma.
+* Unirte el grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a>: Ya sea que estés agarrando un Carajito, quisieras ser mentor, o alguna otra cosa, esta va a ser la mejor forma.
 * Compartiendo: compárteles esta página a tus amigos y conocidos. Si los compartes en las redes sociales, estaría todavía mejor.
-* Crear un Carajito: si esto interesa, envíame un [correo electrónico](mailto:jdcampolargo@hotmail.com) o únete al grupo de <.
+* Crear un Carajito: si esto interesa, envíame un [correo electrónico](mailto:jdcampolargo@hotmail.com) o únete al grupo de <a href="https://chat.whatsapp.com/KGID0EoQF5FD7tRofae8WZ" target="_blank" rel="noopener noreferrer">WhatsApp</a>.
 * Grant: si conoces sobre un grant, subvención, o una ayuda para seguir adelante con este esfuerzo, avísanos.
-* Donación: Al donar lo que puedas, puedes ayudar a <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>, seguir con su misión por muchos años por venir y producir la comunidad de venezolanos más exitosa de todo el mundo. Sí, te gustaría donar, <a href="https://www.buymeacoffee.com/jdcampolargo" target="_blank" rel="noopener noreferrer">aqui</a> o con Bitcoin.
+* Donación: Al donar lo que puedas, puedes ayudar a <a href="https://www.carajo.org/" target="_blank" rel="noopener noreferrer">Carajo.org</a>, seguir con su misión por muchos años por venir y producir la comunidad de venezolanos más exitosa de todo el mundo. Sí, te gustaría donar, <a href="https://www.buymeacoffee.com/jdcampolargo" target="_blank" rel="noopener noreferrer">aqui</a> o [contáctame](mailto:jdcampolargo@hotmail.com).
 
-## Palante Carajo!
+## ¡Palante Carajo!
 Creando la comunidad de venezolanos más exitosa de todo el mundo. ¡Vamos Palante Carajo!
